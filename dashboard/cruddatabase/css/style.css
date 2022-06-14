@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #a4b0be;
+    width: 100%;
+    /* border: solid 10px gold; */
+    align-items: center;
+    margin: auto;
+}
